@@ -5,7 +5,8 @@ const port = 3000;
 app.get('/', (req, res) => {
     res.json({
         code: 69,
-        message: 'hi aki ily uwu'
+        message: 'hi aki ily uwu',
+        reason: 'because why not, stupid german girl lmao'
     });
 });
 
