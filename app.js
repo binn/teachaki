@@ -5,7 +5,8 @@ app.get('/', (req, res) => {
     res.json({
         code: 69,
         message: 'hi aki ily uwu',
-        reason: 'because why not, stupid german girl lmao'
+        reason: 'because why not, stupid german girl lmao',
+        race: 'german girl cutie'
     });
 });
 
